@@ -32,7 +32,7 @@ date_format = "Jan 2006"
   company_url = "https://www.cmu.edu"
   location = "Pennsylvania, US"
   date_start = "2015-04-01"
-  date_end = "2016-3-31"
+  date_end = "2016-03-31"
   description = """"""
   
 [[experience]]
@@ -50,7 +50,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "North Carolina, US"
   date_start = "2012-02-01"
-  date_end = "2012-3-31"
+  date_end = "2012-03-31"
   description = """"""
   
 [[experience]]
@@ -59,7 +59,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Osaka, Japan"
   date_start = "2012-02-01"
-  date_end = "2012-3-31"
+  date_end = "2012-03-31"
   description = """"""
 
 [[experience]]
@@ -68,6 +68,6 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Osaka, Japan"
   date_start = "2008-10-01"
-  date_end = "2012-1-31"
+  date_end = "2012-01-31"
   description = """"""
 +++
