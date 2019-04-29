@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Nelson Bighetti"
+name = "Yuta Nakashima"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -9,23 +9,23 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Professor of Artificial Intelligence"
+role = "Associate Professor"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+organizations = [ { name = "Institute for Datability Science", url = "http://www.ids.osaka-u.ac.jp/en/" } { name = "Osaka University", url = https://www.osaka-u.ac.jp/en/index.html"]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "My research interests computer vision, pattern recognition."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+email = "n-yuta@ids.osaka-u.ac.jp"
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+  "Computer Vision",
+  "Pattern Recognition",
+  "Natural Language Processing"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -59,19 +59,14 @@ user_groups = ["Researchers", "Visitors"]
   link = "#contact"  # For a direct email link, use "mailto:test@example.org".
 
 [[social]]
-  icon = "twitter"
-  icon_pack = "fab"
-  link = "https://twitter.com/GeorgeCushen"
-
-[[social]]
   icon = "google-scholar"
   icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+  link = "https://scholar.google.co.jp/citations?hl=ja&user=LNvd0VQAAAAJ"
 
 [[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://github.com/gcushen"
+  link = "https://github.com/nyuta1212"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -82,6 +77,6 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Yuta Nakashima is an associate professor, working on computer vision, pattern recognition, and natural language processing, at Institute for Datability Science, Osaka University, Japan. Currently he is interested in how knowledge helps visual question answering system and how knowledge is represented. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Asides from his personal research interests, he is also enjoying interdisciplinary research projects hosted by [Institute for Datability Science](http://www.ids.osaka-u.ac.jp/en/), collaborating with researchers in various fields incluging medicine, pharmacy, literature, physics, etc.
